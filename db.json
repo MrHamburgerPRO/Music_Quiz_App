@@ -1,0 +1,44 @@
+{
+  "pytania":[
+    {
+      "tresc":"Funkcja zbudowana na V stopniu gamy to",
+      "odp_a":"Tonika",
+      "odp_b":"Subdominanta",
+      "odp_c":"Dominanta",
+      "odp_d":"Dominanta Nonowa",
+      "poprawna":2
+    },
+    {
+      "tresc":"Jaki interwał ma 12 półtonów?",
+      "odp_a":"Oktawa",
+      "odp_b":"Nona mała",
+      "odp_c":"Duodecyma",
+      "odp_d":"Undecyma",
+      "poprawna":0
+    },
+    {
+      "tresc":"Który instument nie jest aerofonem?",
+      "odp_a":"Organy",
+      "odp_b":"Flet poprzeczny",
+      "odp_c":"Fortepian",
+      "odp_d":"Puzon",
+      "poprawna":2
+    },
+    {
+      "tresc":"W jakich latach żył J.S.Bach?",
+      "odp_a":"1685-1750",
+      "odp_b":"1674-1736",
+      "odp_c":"1712-1775",
+      "odp_d":"1635-1693",
+      "poprawna":0
+    },
+    {
+       "tresc":"Kto napisał '4 pory roku'?",
+      "odp_a":"Haendel",
+      "odp_b":"Mendelsohnn",
+      "odp_c":"Bethoveen",
+      "odp_d":"Vivaldi",
+      "poprawna":3
+    }
+  ]
+}
